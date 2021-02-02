@@ -21,6 +21,9 @@ Linux:
 
 https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172
 
+# Pobieranie
+
+https://codeload.github.com/MsAfro12/DistrictCommunity/zip/main?token=AN5HY6YQP3JBBYZDW76XTKLADFQZY
 
 # Instalacja
 Pobierz plugin DistrictCommunityOptions.plugin.js
