@@ -23,7 +23,7 @@ module.exports = (() => {
             source: 'https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js',
             author: '𝔄𝔣𝔯𝔬',
             authorId: '238269609172533248',
-            version: '0.1',
+            version: '0.2',
         },
 
         // added, fixed, improved
