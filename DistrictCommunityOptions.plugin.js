@@ -4,6 +4,9 @@
  * @author 𝔄𝔣𝔯𝔬
  * @authorId 238269609172533248
  * @invite disctrictcommunity
+ * @github https://github.com/MsAfro12/DistrictCommunity/
+ * @github_raw https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js
  */
 
 module.exports = (() => {
@@ -14,14 +17,28 @@ module.exports = (() => {
         {
             name: 'District Community Mod',
             description: 'Dodatkowe opcje dla Administracji serwera District Community.',
-            updateUrl: 'https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js?token=AN5HY6ZQ43LH3NEPLUP3FR3ADPXSS',
+            github: 'https://github.com/MsAfro12/DistrictCommunity/',
+            github_raw: 'https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js',
+            updateUrl: 'https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js',
+            source: 'https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js',
             author: '𝔄𝔣𝔯𝔬',
             authorId: '238269609172533248',
-            version: '0.8',
+            version: '0.1',
         },
 
         // added, fixed, improved
-        added:{},
+        changeLog:
+        {
+            added:{
+                "":""
+            },
+            fixed:{
+
+            },
+            improved:{
+
+            }
+        },
         // milliseconds
         time:
         {
