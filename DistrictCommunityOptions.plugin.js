@@ -17,7 +17,7 @@ module.exports = (() => {
             updateUrl: 'https://raw.githubusercontent.com/MsAfro12/DistrictCommunity/main/DistrictCommunityOptions.plugin.js?token=AN5HY6ZQ43LH3NEPLUP3FR3ADPXSS',
             author: '𝔄𝔣𝔯𝔬',
             authorId: '238269609172533248',
-            version: '2021.02-0.6',
+            version: '0.8',
         },
 
         // added, fixed, improved
